@@ -8,6 +8,19 @@ Ich bin **Mediengestalterin** mit Schwerpunkt **Grafikdesign** und entwickle mic
 <br>
 ![HTML](https://img.shields.io/badge/HTML%20-%20Beginner%20-%20%2355a140) ![CSS](https://img.shields.io/badge/CSS%20-%20Beginner%20-%20%23d1be0f) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%20Beginner%20-%20%23910d82) ![GitHub](https://img.shields.io/badge/GitHub%20-%20Beginner%20-%20%23000000)
 
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=300000)
+![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=490220)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=000000)
+![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=00005a)
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![]()
+
+
 ---
 
 #### Erfahrung
