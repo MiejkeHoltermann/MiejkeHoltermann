@@ -2,7 +2,7 @@
 
 Ich bin **Mediengestalterin** mit Schwerpunkt **Grafikdesign** und entwickle mich gerade weiter zur **Webdesignerin/Webdeveloperin**.
 
-![Profilfoto](https://www.zooroyal.de/magazin/wp-content/uploads/2022/05/209656_AdobeStock_291562204_Cute-red-kitten-sleeps-on-the-back-on-sofa-covered-with-a-gray-knitted-blanket-Adorable-little-pet-C-min-scaled.jpg)
+[Profilfoto](https://www.zooroyal.de/magazin/wp-content/uploads/2022/05/209656_AdobeStock_291562204_Cute-red-kitten-sleeps-on-the-back-on-sofa-covered-with-a-gray-knitted-blanket-Adorable-little-pet-C-min-scaled.jpg)
 
 ---
 
