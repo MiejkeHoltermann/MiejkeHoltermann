@@ -12,7 +12,7 @@ Ich bin **Mediengestalterin** mit Schwerpunkt **Grafikdesign** und entwickle mic
 - 11/2018 - 06/2019: Foto Gregor, Köln, Grafikdesign und Marketing
 - 06/2023 - 09/2023: neueFische Bootcamp Webdevelopment
 
-![Visitor Count](https://www.instagram.com/miejke/)https://www.instagram.com/miejke/)
+![Visitor Count](https://www.instagram.com/miejke/)
 
 
 
