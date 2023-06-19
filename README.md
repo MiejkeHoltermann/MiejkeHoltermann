@@ -17,7 +17,7 @@ Ich bin **Mediengestalterin** mit Schwerpunkt **Grafikdesign** und entwickle mic
 - 06/2023 - 09/2023: *neueFische* Bootcamp Webdevelopment
 
 
-
+![MiejkeHoltermann's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiejkeHoltermann&show_icons=true&theme=ayu-mirage)
 
 
 
