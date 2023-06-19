@@ -6,7 +6,7 @@ Ich bin **Mediengestalterin** mit Schwerpunkt **Grafikdesign** und entwickle mic
 
 ---
 
-##Erfahrung
+## Erfahrung
 
 - 09/2013 - 06/2016: Ausbildung Mediengestalterin Bild und Ton (IHK)
 - 11/2018 - 06/2019: Foto Gregor, Köln, Grafikdesign und Marketing
