@@ -51,7 +51,7 @@ I'm excited to share my journey with you and invite you to explore the projects 
 
 [Vercel Preview](https://memory-rouge.vercel.app/)
 
-[Figma Prototype](https://memory-rouge.vercel.app/)
+[Figma Prototype](https://www.figma.com/file/OpaFhWwDmSEgjaLtxHwgUU/Untitled?type=design&node-id=0%3A1&mode=design&t=tA1hchMChIILunTr-1)
 
 <img src="https://raw.github.com/MiejkeHoltermann/memory/main/public/memory_preview.jpg" alt="Memory Preview Image" width="600px"/>
 
