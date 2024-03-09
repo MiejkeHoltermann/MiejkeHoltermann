@@ -10,7 +10,6 @@ Whether I'm coding a website or delving into backend development, I approach eac
 
 I'm excited to share my journey with you and invite you to explore the projects and experiences I've curated along the way.
 
-
 ---
 
 Web Development tech stack
@@ -34,8 +33,13 @@ Design skills
 ![Static Badge](https://img.shields.io/badge/Figma%20-%20%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white&labelColor=%23F24E1E)
 
 
-
 ---
+
+Projects
+Voyage Travel App (neueFische graduation project)
+Memory Game
+Parola Vocabulary App
+
 
 
 
