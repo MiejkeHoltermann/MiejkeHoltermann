@@ -1,12 +1,14 @@
-# Willkommen auf meiner Seite! 😸
+Welcome to my page! 😸
 
-Ich bin **Mediengestalterin** mit Schwerpunkt **Grafikdesign** und entwickle mich gerade weiter zur **Webdesignerin/Webdeveloperin**.
+I'm glad to have you here! My journey into web development began in 2023 with a 3-month bootcamp at neueFische, marking a significant shift from my background in graphics design. Since then, I've been dedicated to expanding my skills and refining my craft in the digital realm.
 
-![InDesign](https://img.shields.io/badge/InDesign%20-%20Expert%20-%20%23ff3366) ![Illustrator](https://img.shields.io/badge/Illustrator%20-%20Expert%20-%20%23ff9a00) ![Photoshop](https://img.shields.io/badge/Photoshop%20-%20Expert%20-%20%2330a8ff)
-<br>
-![Premiere](https://img.shields.io/badge/Premiere%20-%20Intermediate%20-%20%239a99ff)
-<br>
-![HTML](https://img.shields.io/badge/HTML%20-%20Beginner%20-%20%2355a140) ![CSS](https://img.shields.io/badge/CSS%20-%20Beginner%20-%20%23d1be0f) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%20Beginner%20-%20%23910d82) ![GitHub](https://img.shields.io/badge/GitHub%20-%20Beginner%20-%20%23000000)
+With a solid foundation in graphics design, I bring a unique perspective to my work in web development. I leverage my design background to create visually appealing and user-friendly experiences across various projects.
+
+Outside of work, I'm an avid traveler with a deep appreciation for diverse cultures. My experiences exploring new destinations have shaped my approach to problem-solving and instilled in me a sense of adaptability that I bring to every professional challenge.
+
+Whether I'm coding a website or delving into backend development, I approach each task with a methodical mindset and a commitment to delivering high-quality results.
+
+I'm excited to share my journey with you and invite you to explore the projects and experiences I've curated along the way.
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=300000)
