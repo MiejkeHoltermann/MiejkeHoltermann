@@ -37,9 +37,9 @@ Design skills
 
 Projects
 
-[Voyage Travel App neueFische graduation project](www.google.com)
+[Voyage Travel App neueFische graduation project](https://voyage-travel-app.vercel.app/)
 
-[Memory Game](www.google.com)
+[Memory Game](https://memory-rouge.vercel.app/)
 
 [Parola Vocabulary App](www.google.com)
 
