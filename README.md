@@ -24,6 +24,8 @@ I'm excited to share my journey with you and invite you to explore the projects 
 ![Static Badge](https://img.shields.io/badge/Premiere%20-%20%239999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%239999FF&labelColor=000066&color=000066)
 ![Static Badge](https://img.shields.io/badge/After_Effects%20-%20%23bd78eb?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=%23bd78eb&labelColor=260053&color=260053)
 ![Static Badge](https://img.shields.io/badge/WordPress%20-%20%2321759B?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=%2321759B)
+![Static Badge](https://img.shields.io/badge/Figma%20-%20%239d56f7?style=for-the-badge&logo=Figma&logoColor=white&labelColor=%239d56f7)
+
 
 
 ---
