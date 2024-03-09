@@ -15,7 +15,7 @@ I'm excited to share my journey with you and invite you to explore the projects 
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=%23F7DF1E&color=gray)
 ![Static Badge](https://img.shields.io/badge/React%20-%20%2361DAFB?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=black&color=gray)
 ![Static Badge](https://img.shields.io/badge/Next.js%20-%20%23000000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black&color=gray)
-![Static Badge](https://img.shields.io/badge/styled_components%20-%20%23DB7093?style=for-the-badge&logo=styled-components&logoColor=%23DB7093&labelColor=black&color=gray)
+![Static Badge](https://img.shields.io/badge/styled_components%20-%20%23DB7093?style=for-the-badge&logo=styled-components&logoColor=%23DB7093&labelColor=%DB7093&color=gray)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20-%20%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=%2306B6D4&labelColor=black&color=gray)
 
 ![Static Badge](https://img.shields.io/badge/Illustrator%20-%20%23FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=%23FF9A00&labelColor=4c0000&color=4c0000)
