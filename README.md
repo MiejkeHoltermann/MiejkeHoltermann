@@ -47,9 +47,9 @@ I'm excited to share my journey with you and invite you to explore the projects 
 
 ## Voyage Travel App (neueFische capstone project)
 
-[GitHub Code](https://github.com/MiejkeHoltermann/memory)
+[GitHub Code](https://github.com/MiejkeHoltermann/capstone-project))
 
-[Vercel Preview](https://memory-rouge.vercel.app/)
+[Vercel Preview]((https://voyage-travel-app.vercel.app/))
 
 [Figma Prototype](https://www.figma.com/file/OpaFhWwDmSEgjaLtxHwgUU/Untitled?type=design&node-id=0%3A1&mode=design&t=tA1hchMChIILunTr-1)
 
