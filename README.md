@@ -23,6 +23,21 @@ I'm excited to share my journey with you and invite you to explore the projects 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![]()
 
+![Static Badge](https://img.shields.io/badge/WordPress%20-%20%2321759B?style=flat&logo=WordPress&logoColor=white&labelColor=%2321759B)
+![Static Badge](https://img.shields.io/badge/Illustrator%20-%20%23FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white&labelColor=%23FF9A00)
+![Static Badge](https://img.shields.io/badge/InDesign%20-%20%23FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white&labelColor=%23FF3366)
+![Static Badge](https://img.shields.io/badge/Photoshop%20-%20%2331A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white&labelColor=%2331A8FF)
+![Static Badge](https://img.shields.io/badge/Premiere%20-%20%239999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white&labelColor=%239999FF)
+![Static Badge](https://img.shields.io/badge/AfterEffects%20-%20%239999FF?style=flat&logo=Adobe%20After%20Effects&logoColor=white&labelColor=%239999FF)
+![Static Badge](https://img.shields.io/badge/LightRoom%20-%20%2331A8FF?style=flat&logo=Adobe%20LightRoom&logoColor=white&labelColor=%2331A8FF)
+![Static Badge](https://img.shields.io/badge/HTML%20-%20%23E34F26?style=flat&logo=HTML5&logoColor=white&labelColor=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS%20-%20%231572B6?style=flat&logo=CSS3&logoColor=white&labelColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?style=flat&logo=JavaScript&logoColor=white&labelColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/React%20-%20%2361DAFB?style=flat&logo=React&logoColor=white&labelColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/Next.js%20-%20%23000000?style=flat&logo=Next.js&logoColor=white&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/styled-components%20-%20%23DB7093?style=flat&logo=styled-components&logoColor=white&labelColor=%23DB7093)
+![Static Badge](https://img.shields.io/badge/Tailwind%20-%20%2306B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white&labelColor=%2306B6D4)
+
 
 ---
 
