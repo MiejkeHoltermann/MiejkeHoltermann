@@ -10,19 +10,6 @@ Whether I'm coding a website or delving into backend development, I approach eac
 
 I'm excited to share my journey with you and invite you to explore the projects and experiences I've curated along the way.
 
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Tailwind-0BAFCE?style=for-the-badge&logo=tailwind&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=300000)
-![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=490220)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=000000)
-![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=00005a)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![]()
-
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=%23E34F26&color=gray)
 ![Static Badge](https://img.shields.io/badge/CSS%20-%20%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=%231572B6&color=gray)
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=%23F7DF1E&color=gray)
@@ -36,7 +23,6 @@ I'm excited to share my journey with you and invite you to explore the projects 
 ![Static Badge](https://img.shields.io/badge/LightRoom%20-%20%2331A8FF?style=for-the-badge&logo=Adobe%20LightRoom&logoColor=%2331A8FF&labelColor=00294a&color=00294a)
 ![Static Badge](https://img.shields.io/badge/Premiere%20-%20%239999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%239999FF&labelColor=000066&color=000066)
 ![Static Badge](https://img.shields.io/badge/After_Effects%20-%20%23bd78eb?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=%23bd78eb&labelColor=260053&color=260053)
-
 ![Static Badge](https://img.shields.io/badge/WordPress%20-%20%2321759B?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=%2321759B)
 
 
