@@ -34,17 +34,6 @@ Design skills:
 
 ---
 
-#### Erfahrung
-
-- 09/2013 - 06/2016: Ausbildung Mediengestalterin Bild und Ton (IHK)
-- 11/2018 - 06/2019: *Foto Gregor*, Köln, Grafikdesign und Marketing
-- 06/2023 - 09/2023: *neueFische* Bootcamp Webdevelopment
-
-
-![MiejkeHoltermann's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiejkeHoltermann&show_icons=true&theme=great-gatsby)
-
-
-
 
 
 
