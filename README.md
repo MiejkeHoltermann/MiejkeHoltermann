@@ -11,6 +11,7 @@ Whether I'm coding a website or delving into backend development, I approach eac
 I'm excited to share my journey with you and invite you to explore the projects and experiences I've curated along the way.
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Tailwind-0BAFCE?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=300000)
 ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=490220)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
