@@ -39,7 +39,7 @@ Projects
 
 [Voyage Travel App neueFische graduation project](https://voyage-travel-app.vercel.app/)
 
-![Alt text](/relative/path/to/voyage_preview.jpg?raw=true "Optional Title")
+![ScreenShot](https://raw.github.com/MiejkeHoltermann/capstone-project/main/public/star.svg)
 
 [Memory Game](https://memory-rouge.vercel.app/)
 
