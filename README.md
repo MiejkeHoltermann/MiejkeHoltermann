@@ -40,7 +40,7 @@ Projects
 [Voyage Travel App neueFische graduation project](https://voyage-travel-app.vercel.app/)
 
 ![ScreenShot](https://raw.github.com/MiejkeHoltermann/capstone-project/main/public/star.svg)
-![ScreenShot](https://raw.github.com/MiejkeHoltermann/memory/main/pubic/memory_preview.jpg)
+![ScreenShot](https://raw.github.com/MiejkeHoltermann/memory/main/public/memory_preview.jpg)
 
 [Parola Vocabulary App](www.google.com)
 
