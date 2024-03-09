@@ -32,7 +32,7 @@ I'm excited to share my journey with you and invite you to explore the projects 
 ![Static Badge](https://img.shields.io/badge/LightRoom%20-%20%2331A8FF?style=flat&logo=Adobe%20LightRoom&logoColor=white&labelColor=%2331A8FF)
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20%23E34F26?style=flat&logo=HTML5&logoColor=white&labelColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS%20-%20%231572B6?style=flat&logo=CSS3&logoColor=white&labelColor=%231572B6)
-![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?style=flat&logo=JavaScript&logoColor=white&labelColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%234D4D4D?logo=JavaScript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/React%20-%20%2361DAFB?style=flat&logo=React&logoColor=white&labelColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Next.js%20-%20%23000000?style=flat&logo=Next.js&logoColor=white&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/styled-components%20-%20%23DB7093?style=flat&logo=styled-components&logoColor=white&labelColor=%23DB7093)
