@@ -11,6 +11,7 @@ Whether I'm coding a website or delving into backend development, I approach eac
 I'm excited to share my journey with you and invite you to explore the projects and experiences I've curated along the way.
 
 Web Development tech stack:
+
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=%23E34F26&color=gray)
 ![Static Badge](https://img.shields.io/badge/CSS%20-%20%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=%231572B6&color=gray)
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=%23F7DF1E&color=gray)
@@ -20,6 +21,7 @@ Web Development tech stack:
 ![Static Badge](https://img.shields.io/badge/Tailwind%20-%20%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=%2306B6D4&color=gray)
 
 Design skills:
+
 ![Static Badge](https://img.shields.io/badge/Illustrator%20-%20%23FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=%23FF9A00&labelColor=4c0000&color=4c0000)
 ![Static Badge](https://img.shields.io/badge/InDesign%20-%20%23FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=%23FF3366&labelColor=550124&color=550124)
 ![Static Badge](https://img.shields.io/badge/LightRoom%20-%20%2331A8FF?style=for-the-badge&logo=Adobe%20LightRoom&logoColor=%2331A8FF&labelColor=00294a&color=00294a)
