@@ -43,11 +43,9 @@ Projects
 
 Memory Game
 
-[Vercel Preview](https://memory-rouge.vercel.app/)
-
 [GitHub Code](https://github.com/MiejkeHoltermann/memory)
 
-<a href="https://github.com/MiejkeHoltermann/memory" style="color:red"> TExt </a>
+[Vercel Preview](https://memory-rouge.vercel.app/)
 
 <img src="https://raw.github.com/MiejkeHoltermann/memory/main/public/memory_preview.jpg" alt="Memory Preview Image" width="600px"/>
 
