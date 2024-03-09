@@ -47,7 +47,7 @@ Memory Game
 
 [GitHub Code](https://github.com/MiejkeHoltermann/memory)
 
-![Memory Preview Image](https://raw.github.com/MiejkeHoltermann/memory/main/public/memory_preview.jpg)
+![Memory Preview Image](https://raw.github.com/MiejkeHoltermann/memory/main/public/memory_preview.jpg){width=200px height=600px}
 
 [Parola Vocabulary App](www.google.com)
 
