@@ -33,7 +33,7 @@ I'm excited to share my journey with you and invite you to explore the projects 
 ![Static Badge](https://img.shields.io/badge/LightRoom%20-%20%2331A8FF?style=for-the-badge&logo=Adobe%20LightRoom&logoColor=%2331A8FF&labelColor=00294a&color=00294a)![Static Badge](https://img.shields.io/badge/HTML%20-%20%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS%20-%20%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%234D4D4D?logo=JavaScript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/React%20-%20%2361DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/React%20-%20%2361DAFB?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=212121&color=212121)
 ![Static Badge](https://img.shields.io/badge/Next.js%20-%20%23000000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/styled-components%20-%20%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=%23DB7093)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20-%20%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=%2306B6D4)
