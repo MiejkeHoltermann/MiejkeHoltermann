@@ -41,7 +41,7 @@ Projects
 
 ![ScreenShot](https://raw.github.com/MiejkeHoltermann/capstone-project/main/public/star.svg)
 
-Memory Game
+# Memory Game
 
 [GitHub Code](https://github.com/MiejkeHoltermann/memory)
 
