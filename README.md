@@ -36,7 +36,7 @@ I'm excited to share my journey with you and invite you to explore the projects 
 
 # Projects
 
-## Parola Vocubaly App
+## Parola Italian Vocabulary App
 
 [GitHub Code](https://github.com/MiejkeHoltermann/parola)
 
