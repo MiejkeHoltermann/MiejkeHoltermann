@@ -42,7 +42,7 @@ I'm excited to share my journey with you and invite you to explore the projects 
 
 [Vercel Preview](https://parola-orcin.vercel.app/)
 
-<img src="https://raw.github.com/MiejkeHoltermann/parola/main/public/parola" alt="Parola Preview Image" width="600px"/>
+<img src="https://raw.github.com/MiejkeHoltermann/parola/main/public/parola_preview.jpg" alt="Parola Preview Image" width="600px"/>
 
 
 ## Voyage Travel App (neueFische capstone project)
