@@ -42,7 +42,7 @@ I'm excited to share my journey with you and invite you to explore the projects 
 
 [Vercel Preview](https://parola-orcin.vercel.app/)
 
-Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, MongoDB, TailwindCSS
+Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, MongoDB, Tailwind CSS
 
 <img src="https://raw.github.com/MiejkeHoltermann/parola/main/public/parola_preview.jpg" alt="Parola Preview Image" width="600px"/>
 
@@ -66,7 +66,7 @@ Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, styled-components
 
 [Vercel Preview](https://memory-rouge.vercel.app/)
 
-Tech Stack: HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+Tech Stack: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
 
 <img src="https://raw.github.com/MiejkeHoltermann/memory/main/public/memory_preview.jpg" alt="Memory Preview Image" width="600px"/>
 
