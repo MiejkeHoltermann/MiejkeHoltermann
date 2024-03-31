@@ -19,9 +19,10 @@ I'm excited to share my journey with you and invite you to explore the projects 
 ![Static Badge](https://img.shields.io/badge/React%20-%20%23DB7093?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=%231b1d38&color=gray)
 ![Static Badge](https://img.shields.io/badge/Next.js%20-%20%23000000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black&color=gray)
 ![Static Badge](https://img.shields.io/badge/Node.js%20-%20green?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=%23339933&color=gray)
-![Static Badge](https://img.shields.io/badge/MongoDB%20-%20green?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=%2347A248&color=gray)
 ![Static Badge](https://img.shields.io/badge/styled_components%20-%20%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=%23DB7093&color=gray)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20-%20%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=%2306B6D4&color=gray)
+![Static Badge](https://img.shields.io/badge/MongoDB%20-%20green?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=%2347A248&color=gray)
+
 
 ## Design Skills
 
