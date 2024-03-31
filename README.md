@@ -11,7 +11,7 @@ Whether I'm coding a website or delving into backend development, I approach eac
 I'm excited to share my journey with you and invite you to explore the projects and experiences I've curated along the way.
 
 
-## Web Development tech stack
+## Web Development Tech Stack
 
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=%23E34F26&color=gray)
 ![Static Badge](https://img.shields.io/badge/CSS%20-%20%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=%231572B6&color=gray)
