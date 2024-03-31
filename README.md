@@ -66,7 +66,7 @@ Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, styled-components
 
 [Vercel Preview](https://memory-rouge.vercel.app/)
 
-Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, TailwindCSS
+Tech Stack: HTML, CSS, JavaScript, React, Next.js, TailwindCSS
 
 <img src="https://raw.github.com/MiejkeHoltermann/memory/main/public/memory_preview.jpg" alt="Memory Preview Image" width="600px"/>
 
