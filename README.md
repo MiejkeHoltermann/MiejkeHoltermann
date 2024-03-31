@@ -42,6 +42,8 @@ I'm excited to share my journey with you and invite you to explore the projects 
 
 [Vercel Preview](https://parola-orcin.vercel.app/)
 
+Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, MongoDB, TailwindCSS
+
 <img src="https://raw.github.com/MiejkeHoltermann/parola/main/public/parola_preview.jpg" alt="Parola Preview Image" width="600px"/>
 
 
@@ -53,6 +55,8 @@ I'm excited to share my journey with you and invite you to explore the projects 
 
 [Figma Prototype](https://www.figma.com/file/OpaFhWwDmSEgjaLtxHwgUU/Untitled?type=design&node-id=0%3A1&mode=design&t=tA1hchMChIILunTr-1)
 
+Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, styled-components
+
 <img src="https://raw.github.com/MiejkeHoltermann/capstone-project/main/public/voyage_preview.jpg" alt="Memory Preview Image" width="600px"/>
 
 
@@ -61,6 +65,8 @@ I'm excited to share my journey with you and invite you to explore the projects 
 [GitHub Code](https://github.com/MiejkeHoltermann/memory)
 
 [Vercel Preview](https://memory-rouge.vercel.app/)
+
+Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, TailwindCSS
 
 <img src="https://raw.github.com/MiejkeHoltermann/memory/main/public/memory_preview.jpg" alt="Memory Preview Image" width="600px"/>
 
