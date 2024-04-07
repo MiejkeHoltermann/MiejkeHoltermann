@@ -50,7 +50,7 @@ Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, MongoDB, Tailwind CS
 <img src="https://raw.github.com/MiejkeHoltermann/parola/main/public/parola_preview.jpg" alt="Parola Preview Image" width="600px"/>
 
 
-## Voyage Travel App (neueFische capstone project)
+## Voyage Travel App (neue Fische capstone project)
 
 [GitHub Code](https://github.com/MiejkeHoltermann/capstone-project)
 
